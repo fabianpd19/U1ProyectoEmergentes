@@ -1,10 +1,3 @@
-# API RESTful Serverless con AWS Lambda y DynamoDB
-
-**Nombre del estudiante:** Fabián Alexander Palma Dueñas  
-**Fecha de entrega:** 30 de mayo de 2025
-
----
-
 ## Introducción
 
 Este proyecto consiste en la creación de una API RESTful utilizando una arquitectura serverless. La API permite realizar operaciones CRUD (crear, leer, actualizar y eliminar) sobre la gestión de carros en una tabla DynamoDB mediante funciones Lambda, expuestas a través de API Gateway.
@@ -116,4 +109,5 @@ Durante el desarrollo de este proyecto se consolidaron los conocimientos adquiri
 Se enfrentaron retos relacionados con la configuración de permisos en el archivo serverless.yml, así como el manejo correcto de respuestas HTTP. Estos desafíos se superaron mediante la consulta de documentación oficial y pruebas iterativas.
 
 Esta experiencia demuestra la potencia y simplicidad del enfoque serverless para construir aplicaciones modernas, eficientes y escalables.
+
 # U1ProyectoEmergentes
